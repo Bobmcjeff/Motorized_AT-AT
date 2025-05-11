@@ -1,2 +1,2 @@
-# Motorized_AT-AT
-All Terrain Armored Transport from Star Wars, but motorized
+# AT-AT_IRL
+Motorized model of an All Terrain Armored Transport from Star Wars
